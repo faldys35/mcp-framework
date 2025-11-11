@@ -90,7 +90,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ### 1. Clone & Setup
 
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/koki7o/mcp-framework)
 cd mcp-framework
 
 # Create .env for API keys (optional but recommended)
