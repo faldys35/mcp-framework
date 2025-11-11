@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Image - Add your banner.png to docs/ directory -->
-<img src="docs/banner.png" alt="MCP Framework Banner" width="800" style="margin-bottom: 20px;">
+<img src="assets/banner.png" alt="MCP Framework Banner" width="800" style="margin-bottom: 20px;">
 
 # 🚀 MCP Framework - Rust Implementation
 
