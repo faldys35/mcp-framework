@@ -15,7 +15,7 @@
 ---
 
 <p>
-  <a href="https://github.com/anthropics/mcp/blob/main/LICENSE">
+  <a href="https://github.com/koki7o/mcp-framework/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-green" />
   </a>
   <a href="https://spec.modelcontextprotocol.io/">
@@ -90,7 +90,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ### 1. Clone & Setup
 
 ```bash
-git clone [<repo-url>]
+git clone https://github.com/koki7o/mcp-framework
 cd mcp-framework
 
 # Create .env for API keys (optional but recommended)
@@ -443,6 +443,6 @@ MIT License - see LICENSE file for details
 
 **Made with ❤️ for the MCP community**
 
-[Report Issues](https://github.com/your-repo/issues) • [Discussions](https://github.com/your-repo/discussions) • [Contributing](./CONTRIBUTING.md)
+[Report Issues](https://github.com/koki7o/mcp-framework/issues) • [Discussions](https://github.com/koki7o/mcp-framework/discussions)
 
 </div>
