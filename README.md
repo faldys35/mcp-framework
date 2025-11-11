@@ -189,8 +189,8 @@ async fn main() -> Result<()> {
         version: "1.0.0".to_string(),
         capabilities: ServerCapabilities {
             tools: Some(ToolsCapability { list_changed: Some(false) }),
-            resources: None,
-            prompts: None,
+            resources: None,  // Not implemented yet
+            prompts: None,    // Not implemented yet
         },
     };
 
