@@ -282,7 +282,7 @@ mcp-framework/
 │   ├── anthropic_agent_demo_with_tools.rs ← Claude agent example
 │   ├── openai_agent_demo_with_tools.rs    ← OpenAI agent example
 │   └── client_usage.rs                    ← Client usage example
-├── docs/
+├── assets/
 │   └── banner.png            ← Your project banner (add this)
 ├── Cargo.toml
 ├── Cargo.lock
